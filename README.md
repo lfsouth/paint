@@ -1,4 +1,4 @@
-# paint: paint a graph with Makefile
+# Paint: paint a graph with Makefile
 
 Here I introduce a way of writing Makefile.
 
